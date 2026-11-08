@@ -2,9 +2,6 @@
 
 Experiments for getting Polar data (H10 chest strap) into the Tallyday
 ecosystem. Sibling of [tallyday-garmin](https://github.com/Olafcito/tallyday-garmin)
-— once a data path proves out, its output joins that repo's SQLite DB by
-timestamp.
-
 ## The three data paths (research 2026-07-06)
 
 | Path | Auth | What you get | Status |
