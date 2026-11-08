@@ -30,7 +30,7 @@ uv run python -m polar_lab.h10_recorder --out data/session.csv
 uv run python -m polar_lab.flow_probe
 ```
 
-## AccessLink registration (one-time, Simon)
+## AccessLink registration
 
 1. Log in at https://admin.polaraccesslink.com with the Polar account.
 2. Create a client → set redirect URI to `http://localhost:8080/callback`.
